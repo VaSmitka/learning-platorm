@@ -1,2 +1,2 @@
 <?php
-kj v n mkhkhv m m,n bbn  ,mbkhbh asdf fasd
+echo "Ahoj";
